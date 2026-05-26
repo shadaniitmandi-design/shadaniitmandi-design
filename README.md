@@ -1,92 +1,148 @@
-<!-- SHADY · README.md · v.01 -->
 
 <div align="center">
 
-```
-// 25.6°N 85.1°E · ARCHITECT.INIT · SYSTEM ONLINE
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00FFAA&height=220&section=header&text=Md%20Shadan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20C%2B%2B%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7A5&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Md+Shadan;I+love+solving+problems+with+C%2B%2B;Competitive+Programming+is+my+daily+grind;Building+logic%2C+speed%2C+and+consistency;Always+learning.+Always+improving.)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=mdshadan&label=Profile%20Views&color=00c853&style=for-the-badge" />
 
 </div>
 
 ---
 
-<div align="left">
+## About Me
 
+```cpp
+class Shadan {
+public:
+    string name = "Md Shadan";
+    string role = "Student Developer";
+    string mainLanguage = "C++";
+    string currentFocus = "Competitive Programming";
+
+    void mindset() {
+        cout << "Think deeply. Code clearly. Improve daily.";
+    }
+};
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  SHADANIITMANDI-DESIGN / README.md                   v.01—2026  │
-└─────────────────────────────────────────────────────────────────┘
-```
+
+I am a passionate programmer focused on Competitive Programming, C++, Data Structures, and Algorithms.
+
+---
+
+## Current Focus
+
+- Competitive Programming
+- C++ and STL
+- Data Structures and Algorithms
+- Fast problem solving
+- Clean and efficient code
+- Better debugging habits
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vscode" />
 
 </div>
 
-# *sha**dy***
-
-`Creative` `Motion` `Design` `Open to work`
-
 ---
 
-### `00 —` TRANSMISSION
+## Competitive Programming Mode
 
-I build **worlds** on screen — static ones and ones that **breathe**.
-Somewhere between architecture and hallucination.
-Design is the structure. Motion is the soul.
-
-> *"Do not go gentle into that good night —*
-> *rage, rage against the dying of the light."*
->
-> — Dylan Thomas · recited in **Interstellar, 2014**
-
-🟢 `CURRENTLY BUILDING · ACCEPTING COMMISSIONS`
-
----
-
-### `01 —` INSTRUMENTS
-
-| Domain | Tools | Nature |
-|---|---|---|
-| Visual | Figma · Illustrator | world-building |
-| Motion | After Effects · Rive | things that breathe |
-| Render | Blender · Photoshop | depth & dimension |
-| Code | HTML · CSS · GSAP | controlled chaos |
-
----
-
-### `02 —` BUILT WORLDS
-
-```
-PRJ — 001 · The Lazarus Protocol                          [Interstellar]
-         A brand identity for an entity that refuses to disappear.
-         Dark system design, animated logo reveal, recursive motion loop.
-         ↳ motion included
-
-PRJ — 002 · Murph's Theorem                               [Interstellar]
-         A data visualisation study built like a ghost's message —
-         information layered through time and noise.
-         ↳ motion included
-
-PRJ — 003 · No Country for Clean Lines                    [NCFOM]
-         Editorial design series. Brutalist typography meets desert
-         silence. Uncompromising composition.
-
-PRJ — 004 · 2001: A UI Odyssey                            [Kubrick]
-         Interface concepts for machines that think — HAL-era cold
-         precision meets modern interaction design.
-         ↳ motion included
+```cpp
+while (!accepted) {
+    read_problem();
+    think_harder();
+    write_code();
+    debug();
+    submit();
+}
 ```
 
 ---
 
-### `03 —` SIGNAL
+## GitHub Stats
 
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/simply.shadan/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shadan-8065833a0/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdshadan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshadan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<div align="right">
+## Streak Stats
 
-*"love is the one thing that transcends time and space."* &nbsp;&nbsp;`// EOF`
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdshadan&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshadan&theme=react-dark&hide_border=true&area=true&custom_title=Md%20Shadan's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdshadan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## Coding Philosophy
+
+```txt
+Consistency beats motivation.
+Logic beats memorization.
+Practice beats fear.
+Debugging builds patience.
+Every wrong answer teaches something.
+```
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mdshadan">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=600&color=00F7A5&center=true&vCenter=true&width=900&lines=Code.+Compile.+Debug.+Repeat.;One+problem+at+a+time.;From+Wrong+Answer+to+Accepted.;Learning+never+stops.)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,50:92FE9D,100:00C9FF&height=150&section=footer" />
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shadaniitmandi-design/shadaniitmandi-design/output/snake.svg" alt="Snake animation" />
 
 </div>
