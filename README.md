@@ -12,6 +12,17 @@
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shadaniitmandi-design/shadaniitmandi-design/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+
 ## About Me
 
 ```cpp
@@ -129,15 +140,6 @@ while (!accepted) {
 
 </div>
 
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shadaniitmandi-design/shadaniitmandi-design/output/snake.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
