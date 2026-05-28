@@ -29,7 +29,7 @@
 class Shadan {
 public:
     string name = "Md Shadan";
-    string role = "Student Developer";
+    string role = "Student Developer && competative programmer";
     string mainLanguage = "C++";
     string currentFocus = "Competitive Programming";
 
